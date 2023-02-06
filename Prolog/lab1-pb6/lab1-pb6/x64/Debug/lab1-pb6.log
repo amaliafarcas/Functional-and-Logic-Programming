@@ -1,0 +1,5 @@
+﻿  lista.cpp
+D:\Ama\UBB\year2\FLP\r1-model-cpp\lista.h(17,2): warning C4091: 'typedef ': ignored on left of 'Nod' when no variable is declared
+D:\Ama\UBB\year2\FLP\r1-model-cpp\lista.cpp(105): warning C4715: 'GCD': not all control paths return a value
+D:\Ama\UBB\year2\FLP\r1-model-cpp\lista.cpp(118): warning C4715: 'gcd': not all control paths return a value
+  lab1-pb6.vcxproj -> D:\Ama\UBB\year2\FLP\lab1-pb6\x64\Debug\lab1-pb6.exe
