@@ -1,9 +1,0 @@
-;map funct
-
-(defun functMapcar (l1 l2) (mapcar #'(lambda (x y) `(,x ,y)) l1 l2))
-(print (functMapcar `(1 2 3) `(0 0 0)))
-;((1 0) (2 0) (3 0)) 
-
-(defun functMapcan (l1 l2) (mapcan #'(lambda (x y) `(,x ,y)) l1 l2))
-(print (functMapcan `(1 2 3) `(0 0 0)))
-;(1 0 2 0 3 0) 
